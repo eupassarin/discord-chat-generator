@@ -1,0 +1,38 @@
+:Manager:
+@Belugo, what's up? -->0.5
+
+:Belugo:
+I'm having car problems.
+[image:car.png] -->3
+I'm going to be late for work today. 
+
+:Manager:
+No problem, take your time. --> 1
+
+:Belugo:
+Thanks! --> 0.5
+
+# comments
+# comments
+
+:PO:
+@Belugo, what's up? -->0.5
+Do you see this?
+[url:http://www.link.com]
+
+:Belugo:
+No, I don't see it. --> 2
+@SM, can you help me with this?
+[url:http://www.link.com]
+
+:Intern:
+@Belugo, could you help me with this?
+.. and this?
+Bug #12345 --> 5
+
+# comments
+
+
+
+
+

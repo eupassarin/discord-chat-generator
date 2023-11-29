@@ -1,0 +1,5 @@
+Pillow==9.3.0
+pilmoji==2.0.2
+moviepy==1.0.3
+
+
